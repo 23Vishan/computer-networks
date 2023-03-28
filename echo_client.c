@@ -129,15 +129,3 @@ int main(int argc, char **argv)
 	close(sd);
 	return(0);
 }
-
-
-/* 		bp = rbuf;
-	bytes_to_read = n;
-	while ((i = read(sd, bp, bytes_to_read)) > 0)
-	{
-		bp += i;
-		bytes_to_read -=i;
-	}
-
-	write(1, rbuf, n);
-	printf("Transmit: \n"); */
