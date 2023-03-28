@@ -1,5 +1,5 @@
-# Computer Networks - Project
-## SOFE - 3850U Operating Systems
+# Final Project
+## SOFE - 3850U Computer Networks
 
 ## Group 16 - CRN 74071
 - Vishan Patel - 100784201
